@@ -1,0 +1,69 @@
+.search{
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-left: 30px;
+    outline: none;
+}
+.youce{
+    float: right;
+    margin-right: 40px;
+}
+#one{
+    width: 45%;
+    height: 400px;
+    background: white;
+    margin-left: 3%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    float: left;
+    overflow: hidden;
+}
+#two{
+    width: 45%;
+    height:400px;
+    background: white;
+    margin-left: 3%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    float: left;
+    overflow: hidden;
+}
+#three{
+    width: 45%;
+    height: 400px;
+    margin-left: 3%;
+    background: white;
+    float: left;
+    overflow: hidden;
+}
+#four{
+    width: 45%;
+    height: 400px;
+    margin-left: 3%;
+    background: white;
+    float: left;
+    overflow: hidden;
+}
+.content{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background: #e8e8e8;
+}
+
+.tables{
+    width: 100%;
+    height: auto;
+    background: white;
+}
+.tables tr{
+    height: 50px;
+}
+.tables td{
+    border: 1px solid #e8e8e8;
+}
+.tables th{
+     border: 1px solid #e8e8e8;
+ }
